@@ -1,0 +1,13 @@
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-2\Uppgift-2-8\bin\Debug\netcoreapp3.1\Uppgift-2-8.exe
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-2\Uppgift-2-8\bin\Debug\netcoreapp3.1\Uppgift-2-8.deps.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-2\Uppgift-2-8\bin\Debug\netcoreapp3.1\Uppgift-2-8.runtimeconfig.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-2\Uppgift-2-8\bin\Debug\netcoreapp3.1\Uppgift-2-8.runtimeconfig.dev.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-2\Uppgift-2-8\bin\Debug\netcoreapp3.1\Uppgift-2-8.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-2\Uppgift-2-8\bin\Debug\netcoreapp3.1\Uppgift-2-8.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-2\Uppgift-2-8\obj\Debug\netcoreapp3.1\Uppgift-2-8.csprojAssemblyReference.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-2\Uppgift-2-8\obj\Debug\netcoreapp3.1\Uppgift-2-8.AssemblyInfoInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-2\Uppgift-2-8\obj\Debug\netcoreapp3.1\Uppgift-2-8.AssemblyInfo.cs
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-2\Uppgift-2-8\obj\Debug\netcoreapp3.1\Uppgift-2-8.csproj.CoreCompileInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-2\Uppgift-2-8\obj\Debug\netcoreapp3.1\Uppgift-2-8.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-2\Uppgift-2-8\obj\Debug\netcoreapp3.1\Uppgift-2-8.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-2\Uppgift-2-8\obj\Debug\netcoreapp3.1\Uppgift-2-8.genruntimeconfig.cache
