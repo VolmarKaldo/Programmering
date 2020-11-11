@@ -1,0 +1,13 @@
+C:\Users\volmar.kaldo\Documents\Programmering\Prov-1b\Prov\obj\Debug\netcoreapp3.1\Prov.csprojAssemblyReference.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Prov-1b\Prov\obj\Debug\netcoreapp3.1\Prov.AssemblyInfoInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Prov-1b\Prov\obj\Debug\netcoreapp3.1\Prov.AssemblyInfo.cs
+C:\Users\volmar.kaldo\Documents\Programmering\Prov-1b\Prov\obj\Debug\netcoreapp3.1\Prov.csproj.CoreCompileInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Prov-1b\Prov\bin\Debug\netcoreapp3.1\Prov.exe
+C:\Users\volmar.kaldo\Documents\Programmering\Prov-1b\Prov\bin\Debug\netcoreapp3.1\Prov.deps.json
+C:\Users\volmar.kaldo\Documents\Programmering\Prov-1b\Prov\bin\Debug\netcoreapp3.1\Prov.runtimeconfig.json
+C:\Users\volmar.kaldo\Documents\Programmering\Prov-1b\Prov\bin\Debug\netcoreapp3.1\Prov.runtimeconfig.dev.json
+C:\Users\volmar.kaldo\Documents\Programmering\Prov-1b\Prov\bin\Debug\netcoreapp3.1\Prov.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Prov-1b\Prov\bin\Debug\netcoreapp3.1\Prov.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Prov-1b\Prov\obj\Debug\netcoreapp3.1\Prov.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Prov-1b\Prov\obj\Debug\netcoreapp3.1\Prov.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Prov-1b\Prov\obj\Debug\netcoreapp3.1\Prov.genruntimeconfig.cache
