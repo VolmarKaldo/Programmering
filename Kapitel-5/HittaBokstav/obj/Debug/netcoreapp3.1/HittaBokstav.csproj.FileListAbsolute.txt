@@ -1,0 +1,13 @@
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\HittaBokstav\bin\Debug\netcoreapp3.1\HittaBokstav.exe
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\HittaBokstav\bin\Debug\netcoreapp3.1\HittaBokstav.deps.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\HittaBokstav\bin\Debug\netcoreapp3.1\HittaBokstav.runtimeconfig.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\HittaBokstav\bin\Debug\netcoreapp3.1\HittaBokstav.runtimeconfig.dev.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\HittaBokstav\bin\Debug\netcoreapp3.1\HittaBokstav.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\HittaBokstav\bin\Debug\netcoreapp3.1\HittaBokstav.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\HittaBokstav\obj\Debug\netcoreapp3.1\HittaBokstav.csprojAssemblyReference.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\HittaBokstav\obj\Debug\netcoreapp3.1\HittaBokstav.AssemblyInfoInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\HittaBokstav\obj\Debug\netcoreapp3.1\HittaBokstav.AssemblyInfo.cs
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\HittaBokstav\obj\Debug\netcoreapp3.1\HittaBokstav.csproj.CoreCompileInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\HittaBokstav\obj\Debug\netcoreapp3.1\HittaBokstav.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\HittaBokstav\obj\Debug\netcoreapp3.1\HittaBokstav.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\HittaBokstav\obj\Debug\netcoreapp3.1\HittaBokstav.genruntimeconfig.cache

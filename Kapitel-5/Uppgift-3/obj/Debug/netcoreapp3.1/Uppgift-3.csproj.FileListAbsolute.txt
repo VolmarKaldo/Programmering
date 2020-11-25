@@ -1,0 +1,13 @@
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Uppgift-3\bin\Debug\netcoreapp3.1\Uppgift-3.exe
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Uppgift-3\bin\Debug\netcoreapp3.1\Uppgift-3.deps.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Uppgift-3\bin\Debug\netcoreapp3.1\Uppgift-3.runtimeconfig.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Uppgift-3\bin\Debug\netcoreapp3.1\Uppgift-3.runtimeconfig.dev.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Uppgift-3\bin\Debug\netcoreapp3.1\Uppgift-3.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Uppgift-3\bin\Debug\netcoreapp3.1\Uppgift-3.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Uppgift-3\obj\Debug\netcoreapp3.1\Uppgift-3.csprojAssemblyReference.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Uppgift-3\obj\Debug\netcoreapp3.1\Uppgift-3.AssemblyInfoInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Uppgift-3\obj\Debug\netcoreapp3.1\Uppgift-3.AssemblyInfo.cs
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Uppgift-3\obj\Debug\netcoreapp3.1\Uppgift-3.csproj.CoreCompileInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Uppgift-3\obj\Debug\netcoreapp3.1\Uppgift-3.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Uppgift-3\obj\Debug\netcoreapp3.1\Uppgift-3.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Uppgift-3\obj\Debug\netcoreapp3.1\Uppgift-3.genruntimeconfig.cache

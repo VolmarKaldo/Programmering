@@ -1,0 +1,13 @@
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\MorseÖversättning\obj\Debug\netcoreapp3.1\MorseÖversättning.csprojAssemblyReference.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\MorseÖversättning\obj\Debug\netcoreapp3.1\MorseÖversättning.AssemblyInfoInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\MorseÖversättning\obj\Debug\netcoreapp3.1\MorseÖversättning.AssemblyInfo.cs
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\MorseÖversättning\obj\Debug\netcoreapp3.1\MorseÖversättning.csproj.CoreCompileInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\MorseÖversättning\bin\Debug\netcoreapp3.1\MorseÖversättning.exe
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\MorseÖversättning\bin\Debug\netcoreapp3.1\MorseÖversättning.deps.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\MorseÖversättning\bin\Debug\netcoreapp3.1\MorseÖversättning.runtimeconfig.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\MorseÖversättning\bin\Debug\netcoreapp3.1\MorseÖversättning.runtimeconfig.dev.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\MorseÖversättning\bin\Debug\netcoreapp3.1\MorseÖversättning.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\MorseÖversättning\bin\Debug\netcoreapp3.1\MorseÖversättning.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\MorseÖversättning\obj\Debug\netcoreapp3.1\MorseÖversättning.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\MorseÖversättning\obj\Debug\netcoreapp3.1\MorseÖversättning.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\MorseÖversättning\obj\Debug\netcoreapp3.1\MorseÖversättning.genruntimeconfig.cache
