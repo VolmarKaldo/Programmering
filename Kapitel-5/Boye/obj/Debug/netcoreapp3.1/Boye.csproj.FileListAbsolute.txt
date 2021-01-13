@@ -1,0 +1,13 @@
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Boye\bin\Debug\netcoreapp3.1\Boye.exe
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Boye\bin\Debug\netcoreapp3.1\Boye.deps.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Boye\bin\Debug\netcoreapp3.1\Boye.runtimeconfig.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Boye\bin\Debug\netcoreapp3.1\Boye.runtimeconfig.dev.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Boye\bin\Debug\netcoreapp3.1\Boye.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Boye\bin\Debug\netcoreapp3.1\Boye.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Boye\obj\Debug\netcoreapp3.1\Boye.csprojAssemblyReference.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Boye\obj\Debug\netcoreapp3.1\Boye.AssemblyInfoInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Boye\obj\Debug\netcoreapp3.1\Boye.AssemblyInfo.cs
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Boye\obj\Debug\netcoreapp3.1\Boye.csproj.CoreCompileInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Boye\obj\Debug\netcoreapp3.1\Boye.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Boye\obj\Debug\netcoreapp3.1\Boye.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Boye\obj\Debug\netcoreapp3.1\Boye.genruntimeconfig.cache

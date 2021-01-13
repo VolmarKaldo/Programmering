@@ -1,0 +1,13 @@
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Tilemap\bin\Debug\netcoreapp3.1\Tilemap.exe
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Tilemap\bin\Debug\netcoreapp3.1\Tilemap.deps.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Tilemap\bin\Debug\netcoreapp3.1\Tilemap.runtimeconfig.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Tilemap\bin\Debug\netcoreapp3.1\Tilemap.runtimeconfig.dev.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Tilemap\bin\Debug\netcoreapp3.1\Tilemap.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Tilemap\bin\Debug\netcoreapp3.1\Tilemap.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Tilemap\obj\Debug\netcoreapp3.1\Tilemap.csprojAssemblyReference.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Tilemap\obj\Debug\netcoreapp3.1\Tilemap.AssemblyInfoInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Tilemap\obj\Debug\netcoreapp3.1\Tilemap.AssemblyInfo.cs
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Tilemap\obj\Debug\netcoreapp3.1\Tilemap.csproj.CoreCompileInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Tilemap\obj\Debug\netcoreapp3.1\Tilemap.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Tilemap\obj\Debug\netcoreapp3.1\Tilemap.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-5\Tilemap\obj\Debug\netcoreapp3.1\Tilemap.genruntimeconfig.cache
