@@ -1,0 +1,13 @@
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Prov-3a\obj\Debug\netcoreapp3.1\Prov-3a.csprojAssemblyReference.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Prov-3a\obj\Debug\netcoreapp3.1\Prov-3a.AssemblyInfoInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Prov-3a\obj\Debug\netcoreapp3.1\Prov-3a.AssemblyInfo.cs
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Prov-3a\obj\Debug\netcoreapp3.1\Prov-3a.csproj.CoreCompileInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Prov-3a\bin\Debug\netcoreapp3.1\Prov-3a.exe
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Prov-3a\bin\Debug\netcoreapp3.1\Prov-3a.deps.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Prov-3a\bin\Debug\netcoreapp3.1\Prov-3a.runtimeconfig.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Prov-3a\bin\Debug\netcoreapp3.1\Prov-3a.runtimeconfig.dev.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Prov-3a\bin\Debug\netcoreapp3.1\Prov-3a.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Prov-3a\bin\Debug\netcoreapp3.1\Prov-3a.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Prov-3a\obj\Debug\netcoreapp3.1\Prov-3a.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Prov-3a\obj\Debug\netcoreapp3.1\Prov-3a.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Prov-3a\obj\Debug\netcoreapp3.1\Prov-3a.genruntimeconfig.cache
