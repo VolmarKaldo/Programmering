@@ -1,0 +1,13 @@
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\bin\Debug\netcoreapp3.1\Kapitel-6.exe
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\bin\Debug\netcoreapp3.1\Kapitel-6.deps.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\bin\Debug\netcoreapp3.1\Kapitel-6.runtimeconfig.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\bin\Debug\netcoreapp3.1\Kapitel-6.runtimeconfig.dev.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\bin\Debug\netcoreapp3.1\Kapitel-6.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\bin\Debug\netcoreapp3.1\Kapitel-6.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\obj\Debug\netcoreapp3.1\Kapitel-6.csprojAssemblyReference.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\obj\Debug\netcoreapp3.1\Kapitel-6.AssemblyInfoInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\obj\Debug\netcoreapp3.1\Kapitel-6.AssemblyInfo.cs
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\obj\Debug\netcoreapp3.1\Kapitel-6.csproj.CoreCompileInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\obj\Debug\netcoreapp3.1\Kapitel-6.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\obj\Debug\netcoreapp3.1\Kapitel-6.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\obj\Debug\netcoreapp3.1\Kapitel-6.genruntimeconfig.cache

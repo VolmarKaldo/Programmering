@@ -1,0 +1,13 @@
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Uppgift6-7\obj\Debug\netcoreapp3.1\Uppgift6-7.csprojAssemblyReference.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Uppgift6-7\obj\Debug\netcoreapp3.1\Uppgift6-7.AssemblyInfoInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Uppgift6-7\obj\Debug\netcoreapp3.1\Uppgift6-7.AssemblyInfo.cs
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Uppgift6-7\obj\Debug\netcoreapp3.1\Uppgift6-7.csproj.CoreCompileInputs.cache
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Uppgift6-7\bin\Debug\netcoreapp3.1\Uppgift6-7.exe
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Uppgift6-7\bin\Debug\netcoreapp3.1\Uppgift6-7.deps.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Uppgift6-7\bin\Debug\netcoreapp3.1\Uppgift6-7.runtimeconfig.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Uppgift6-7\bin\Debug\netcoreapp3.1\Uppgift6-7.runtimeconfig.dev.json
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Uppgift6-7\bin\Debug\netcoreapp3.1\Uppgift6-7.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Uppgift6-7\bin\Debug\netcoreapp3.1\Uppgift6-7.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Uppgift6-7\obj\Debug\netcoreapp3.1\Uppgift6-7.dll
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Uppgift6-7\obj\Debug\netcoreapp3.1\Uppgift6-7.pdb
+C:\Users\volmar.kaldo\Documents\Programmering\Kapitel-6\Uppgift6-7\obj\Debug\netcoreapp3.1\Uppgift6-7.genruntimeconfig.cache
